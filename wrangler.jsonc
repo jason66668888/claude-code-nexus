@@ -39,7 +39,7 @@
         "NODE_ENV": "production",
         "VITE_PORT": "5173",
         "APP_BASE_URL": "https://cc.w2w.qzz.io"
-      }
+      },"name": "claude-code-nexus"
     }
   }
 }
