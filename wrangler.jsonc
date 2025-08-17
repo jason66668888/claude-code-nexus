@@ -31,14 +31,14 @@
         {
           "binding": "DB",
           "database_name": "claude-code-nexus",
-          "database_id": "18df19cb-8329-4911-9c02-fffe47d65c7b",
+          "database_id": "2dad1e97-cea8-4fb0-bc10-1ace7aa4939a",
           "migrations_dir": "drizzle"
         }
       ],
       "vars": {
         "NODE_ENV": "production",
         "VITE_PORT": "5173",
-        "APP_BASE_URL": "https://claude.nekro.ai"
+        "APP_BASE_URL": "https://cc.w2w.qzz.io"
       }
     }
   }
